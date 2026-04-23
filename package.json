@@ -1,0 +1,20 @@
+{
+  "name": "cicd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiyazAli-dev/cicd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NiyazAli-dev/cicd/issues"
+  },
+  "homepage": "https://github.com/NiyazAli-dev/cicd#readme"
+}
